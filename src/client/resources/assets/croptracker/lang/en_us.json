@@ -1,0 +1,7 @@
+{
+  "key.category.croptracker": "CropTracker",
+  "key.croptracker.start": "Start farming session",
+  "key.croptracker.pause": "Pause or resume farming session",
+  "key.croptracker.end": "End farming session",
+  "key.croptracker.export": "Copy session report"
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "croptracker",
+  "version": "${version}",
+  "name": "CropTracker",
+  "description": "Client-side farming session and crop-drop tracker.",
+  "authors": ["CropTracker contributors"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.croptracker.CropTrackerClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
